@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b150e41c807cceb4d8581f4649fdf562, type: 3}
+  m_Name: Ciencia
+  m_EditorClassIdentifier: 
+  questions:
+  - {fileID: 11400000, guid: e2f819677bbfceb4b813de92fe8de205, type: 2}
+  - {fileID: 11400000, guid: a3cfe3acca7bb8c429a7269a9d74502e, type: 2}
+  categoryName: Ciencia

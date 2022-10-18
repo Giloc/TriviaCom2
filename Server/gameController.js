@@ -1,0 +1,4 @@
+
+
+let ordenLlegada = [];
+let jugadores = [];
